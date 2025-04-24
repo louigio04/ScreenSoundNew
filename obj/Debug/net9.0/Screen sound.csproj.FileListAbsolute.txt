@@ -12,3 +12,9 @@ c:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\refint\Screen sou
 c:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.pdb
 C:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.genruntimeconfig.cache
 C:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\ref\Screen sound.dll
+c:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.sourcelink.json
+c:\Users\Mirian\Desktop\Alura\C#\Screen sound\bin\Debug\net9.0\OpenAI.dll
+c:\Users\Mirian\Desktop\Alura\C#\Screen sound\bin\Debug\net9.0\System.ClientModel.dll
+c:\Users\Mirian\Desktop\Alura\C#\Screen sound\bin\Debug\net9.0\System.Memory.Data.dll
+c:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.csproj.AssemblyReference.cache
+C:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen s.65052823.Up2Date
