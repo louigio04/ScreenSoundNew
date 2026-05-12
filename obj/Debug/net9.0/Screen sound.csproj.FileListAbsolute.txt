@@ -18,3 +18,23 @@ c:\Users\Mirian\Desktop\Alura\C#\Screen sound\bin\Debug\net9.0\System.ClientMode
 c:\Users\Mirian\Desktop\Alura\C#\Screen sound\bin\Debug\net9.0\System.Memory.Data.dll
 c:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.csproj.AssemblyReference.cache
 C:\Users\Mirian\Desktop\Alura\C#\Screen sound\obj\Debug\net9.0\Screen s.65052823.Up2Date
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\Screen sound.exe
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\Screen sound.deps.json
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\Screen sound.runtimeconfig.json
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\Screen sound.dll
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\Screen sound.pdb
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\OpenAI.dll
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\System.ClientModel.dll
+E:\Alura\C#\Screen sound\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.csproj.AssemblyReference.cache
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.AssemblyInfoInputs.cache
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.AssemblyInfo.cs
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.csproj.CoreCompileInputs.cache
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.sourcelink.json
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen s.65052823.Up2Date
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.dll
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\refint\Screen sound.dll
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.pdb
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\Screen sound.genruntimeconfig.cache
+E:\Alura\C#\Screen sound\obj\Debug\net9.0\ref\Screen sound.dll
